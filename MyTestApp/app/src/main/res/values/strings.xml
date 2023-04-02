@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTestApp</string>
+
+    <string name="yt_link">...www.youtube.com...</string>
+</resources>
