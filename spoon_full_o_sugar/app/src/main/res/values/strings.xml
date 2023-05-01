@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Spoon Full \'O Sugar</string>
+    <string name="log_meds">Log Meds\nJust Taken</string>
+    <string name="add_sched">Edit\nSchedule</string>
+    <string name="view_sched">View today\'s\nSchedule</string>
+    <string name="view_hist">View\nHistory</string>
+    <string name="name_query">What did you take?</string>
+    <string name="quant_query">How much did you take?</string>
+    <string name="date_query">What date did you take it?</string>
+    <string name="time_query">What time did you take it?</string>
+    <string name="daily_meds">Add\nMedication taken\nEveryday</string>
+    <string name="spec_day_meds">Add\nMedication taken\non specific days</string>
+    <string name="remove_from_sched">Remove\nMedications\nfrom Schedule</string>
+    <string name="sched_name_query">What is the name\nof the medication?</string>
+    <string name="sched_dose_query">How much do you need to take?</string>
+    <string name="sched_time_query">What time do you need to take it at?</string>
+    <string name="time_instruction">Press to set the time.</string>
+    <string name="sched_day_query">Which days?</string>
+    <string name="hello_blank_fragment">Blank Fragment</string>
+
+
+</resources>
